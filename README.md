@@ -1,4 +1,4 @@
-# tureactor
+# tureactor 🦓🐆
 ## Models of 2D Reaction-Diffusion Systems
 ### [<sup>GitHub</sup>](https://github.com/shivChitinous/tureactor)
 
