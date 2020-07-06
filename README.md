@@ -1,5 +1,5 @@
 # tureactor
-#### [<sup>GitHub</sup>](https://github.com/shivChitinous/tureactor) <sup>|</sup>
+#### [<sup>GitHub</sup>](https://github.com/shivChitinous/tureactor)
 
 ## Models of 2D Reaction-Diffusion Systems
 
