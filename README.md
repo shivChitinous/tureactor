@@ -1,5 +1,5 @@
 # tureactor
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/tureactor/master)
+#### [<sup>GitHub</sup>](https://github.com/shivChitinous/optimal-forager) <sup>|</sup> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shivChitinous/tureactor/master)
 
 ## Models of 2D Reaction-Diffusion Systems
 
