@@ -4,4 +4,4 @@
 
 I implement two distinct 2D reaction-diffusion models - Mexican Hat Reaction-Diffusion and the Gray-Scott model using functions from the image analysis package `scikit-image` in python.
 
-[**GitHub**](https://github.com/shivChitinous/tureactor)
+#### [**GitHub**](https://github.com/shivChitinous/tureactor)
