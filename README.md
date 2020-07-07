@@ -1,4 +1,4 @@
-### [<sup>GitHub</sup>](https://github.com/shivChitinous/tureactor)
+[**<sup>GitHub</sup>**](https://github.com/shivChitinous/tureactor)
 ## Models of 2D Reaction-Diffusion Systems 🦓🐆
 
 [**Click here to view!**](https://shivchitinous.github.io/tureactor/Reaction-Diffusion)
